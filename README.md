@@ -24,18 +24,18 @@ A **React** application that generates random quotes by fetching data from a pub
 ## Installation
 
 1. Clone the repository:
-   ```bash
-      git clone https://github.com/yourusername/random-quote-generator.git
-    ```
+```bash
+   git clone https://github.com/yourusername/random-quote-generator.git 
+```
 2. Navigate into the project directory:
 ```bash
-cd random-quote-generator
+    cd random-quote-generator
 ```
 3. Install dependencies:
-    ```bash
+```bash
     npm install
-    ```
+```
 4. Start the development server:
 ```bash
-npm start
+    npm start
 ```
